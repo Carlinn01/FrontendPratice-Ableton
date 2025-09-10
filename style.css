@@ -1,0 +1,27 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    align-items: baseline;
+    border-top: 1px;
+    border-color: blue;
+}
+
+.Navbar_logo img{
+    padding-left: 30px;
+    width: 250;
+    height: 250;
+    max-width: 80px;
+}
+
+.Navbar_Esquerda a{
+    align-items: first baseline;
+}
+
+.Navbar_Direita a{
+    align-items: center;
+}
+
+
